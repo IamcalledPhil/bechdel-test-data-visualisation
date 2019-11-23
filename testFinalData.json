@@ -1,0 +1,93 @@
+[
+    {
+        "year" : 1970,
+        "movies":[
+            {
+                "title": "fdsfs",
+                "gross/budget/whatever": 100,
+                "rating": 2,
+                "imdb_id": 123
+            },
+                        {
+                "title": "fds",
+                "gross/budget/whatever": 50,
+                "rating": 2,
+                "imdb_id": 122223
+                
+            },
+                        {
+                "title": "aaaaa",
+                "rating": 0,
+                "gross/budget/whatever": 20,
+                "imdb_id": 333
+            },
+                       {
+                "title": "aaaaa",
+                "rating": 0,
+                "gross/budget/whatever": 3333.3,
+                "imdb_id": 333
+            }
+        ]
+    },
+    {
+        "year" : 1971,
+        "movies":[
+            {
+                "title": "tttt",
+                "gross/budget/whatever": 30,
+                "rating": 1,
+                "imdb_id": 123
+            },
+                        {
+                "title": "fds",
+                "gross/budget/whatever": 10,
+                "rating": 2,
+                "imdb_id": 122223
+                
+            },
+                        {
+                "title": "aaaaa",
+                "rating": 0,
+                "gross/budget/whatever": 70,
+                "imdb_id": 333
+            },
+                       {
+                "title": "aaaaa",
+                "rating": 0,
+                "gross/budget/whatever": 3333.3,
+                "imdb_id": 333
+            }
+        ]
+    },
+    {
+        "year" : 1972,
+        "movies":[
+            {
+                "title": "fdsfs",
+                "gross/budget/whatever": 432432.3,
+                "rating": 0,
+                "imdb_id": 123
+            },
+                        {
+                "title": "fds",
+                "gross/budget/whatever": 55.3,
+                "rating": 3,
+                "imdb_id": 122223
+                
+            },
+                        {
+                "title": "aaaaa",
+                "rating": 0,
+                "gross/budget/whatever": 3333.3,
+                "imdb_id": 333
+            },
+                       {
+                "title": "aaaaa",
+                "rating": 0,
+                "gross/budget/whatever": 3333.3,
+                "imdb_id": 333
+            }
+        ]
+    }
+
+]

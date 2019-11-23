@@ -1,0 +1,15 @@
+svg {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+div#container {
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    background-color: #2F4A6D;
+  }
