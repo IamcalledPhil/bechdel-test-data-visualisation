@@ -16,6 +16,13 @@
    const margin = 60;
    const width = 1000 - 2 * margin;
    const height = 600 - 2 * margin;
+   const widthToBudgetRatio = 4;
+   const ratingColors = {
+      '0': '#912AE8',
+      '1': '#DC3AFF',
+      '2': '#E82AC9',
+      '3': '#FF2E74',
+   }
 
    const svg = d3.select('svg');
 
@@ -48,20 +55,20 @@
          .enter()
       
          .each(function(d,i) {
-            console.log(i); // prints the current index
-            console.log(d); // prints the data at the current index
+
             let offset = 0;
             const dataPointHeight = height /(numberOfMovies);
             for (const movie of d.movies){
                console.log(movie);
+               const dataPointWidth = xScale.bandwidth()/(movie["gross/budget/whatever"]/widthToBudgetRatio);
                chart.append('rect')
-               .attr('x', (s) => xScale(d.year))
+               .attr('x', (s) => xScale(d.year)+xScale.bandwidth()/2-dataPointWidth/2)
                .attr('y', (s) => (height - 2 * margin) - offset)
                .attr('height', (s) => dataPointHeight)
-               .attr('width', xScale.bandwidth())
+               .attr('width', xScale.bandwidth()/(movie["gross/budget/whatever"]/widthToBudgetRatio))
+               .attr('fill', ratingColors[movie.rating])
 
                offset += dataPointHeight;
-               console.log(offset);
             }
    
             })
