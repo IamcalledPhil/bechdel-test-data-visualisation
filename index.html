@@ -16,7 +16,7 @@
    const margin = 60;
    const width = 1000 - 2 * margin;
    const height = 600 - 2 * margin;
-   const widthToBudgetRatio = 4;
+   const widthToBudgetRatio = 90;
    const ratingColors = {
       '0': '#912AE8',
       '1': '#DC3AFF',
@@ -26,9 +26,12 @@
 
    const svg = d3.select('svg');
 
-   d3.json("testFinalData.json", function(error, data) {
+   const scale = (num, in_min, in_max, out_min, out_max) => {
+      return (num - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
+   }
+
+   d3.json("finalData.json", function(error, data) {
    
-      const numberOfMovies = data[0].movies.length;
 
       const chart = svg.append('g')
         .attr('transform', `translate(${margin}, ${margin})`);
@@ -55,17 +58,16 @@
          .enter()
       
          .each(function(d,i) {
-
+            const numberOfMovies = d.movies.length;
             let offset = 0;
             const dataPointHeight = height /(numberOfMovies);
             for (const movie of d.movies){
-               console.log(movie);
-               const dataPointWidth = xScale.bandwidth()/(movie["gross/budget/whatever"]/widthToBudgetRatio);
+               const dataPointWidth = xScale.bandwidth()*(1 - 1/scale(movie["budget"], 0, 999999999, 1, 14));
                chart.append('rect')
                .attr('x', (s) => xScale(d.year)+xScale.bandwidth()/2-dataPointWidth/2)
-               .attr('y', (s) => (height - 2 * margin) - offset)
+               .attr('y', (s) => (height - dataPointHeight) - offset)
                .attr('height', (s) => dataPointHeight)
-               .attr('width', xScale.bandwidth()/(movie["gross/budget/whatever"]/widthToBudgetRatio))
+               .attr('width', dataPointWidth)
                .attr('fill', ratingColors[movie.rating])
 
                offset += dataPointHeight;

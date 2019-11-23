@@ -2,19 +2,7 @@
     {
         "year" : 1970,
         "movies":[
-            {
-                "title": "fdsfs",
-                "gross/budget/whatever": 100,
-                "rating": 0,
-                "imdb_id": 123
-            },
-                        {
-                "title": "fds",
-                "gross/budget/whatever": 50,
-                "rating": 1,
-                "imdb_id": 122223
-                
-            },
+
                         {
                 "title": "aaaaa",
                 "rating": 2,
