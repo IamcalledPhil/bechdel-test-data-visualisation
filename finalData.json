@@ -3,1656 +3,6 @@
         "movies": [
             {
                 "rating": 0, 
-                "title": "Heaven&#39;s Gate", 
-                "imdbid": "0080855", 
-                "budget": 44000000, 
-                "year": 1980, 
-                "id": 4960
-            }, 
-            {
-                "rating": 0, 
-                "title": "Star Wars: Episode V - The Empire Strikes Back", 
-                "imdbid": "0080684", 
-                "budget": 18000000, 
-                "year": 1980, 
-                "id": 670
-            }, 
-            {
-                "rating": 0, 
-                "title": "Blue Lagoon, The", 
-                "imdbid": "0080453", 
-                "budget": 4500000, 
-                "year": 1980, 
-                "id": 6395
-            }, 
-            {
-                "rating": 1, 
-                "title": "Blues Brothers, The", 
-                "imdbid": "0080455", 
-                "budget": 27000000, 
-                "year": 1980, 
-                "id": 208
-            }, 
-            {
-                "rating": 1, 
-                "title": "Raging Bull", 
-                "imdbid": "0081398", 
-                "budget": 18000000, 
-                "year": 1980, 
-                "id": 1437
-            }, 
-            {
-                "rating": 1, 
-                "title": "Cannibal Holocaust", 
-                "imdbid": "0078935", 
-                "budget": 100000, 
-                "year": 1980, 
-                "id": 2278
-            }, 
-            {
-                "rating": 2, 
-                "title": "Shining, The", 
-                "imdbid": "0081505", 
-                "budget": 19000000, 
-                "year": 1980, 
-                "id": 930
-            }, 
-            {
-                "rating": 2, 
-                "title": "Ordinary People", 
-                "imdbid": "0081283", 
-                "budget": 6000000, 
-                "year": 1980, 
-                "id": 7192
-            }, 
-            {
-                "rating": 2, 
-                "title": "Somewhere in Time", 
-                "imdbid": "0081534", 
-                "budget": 5100000, 
-                "year": 1980, 
-                "id": 3873
-            }, 
-            {
-                "rating": 2, 
-                "title": "Battle Beyond the Stars", 
-                "imdbid": "0080421", 
-                "budget": 2000000, 
-                "year": 1980, 
-                "id": 7307
-            }, 
-            {
-                "rating": 3, 
-                "title": "Superman II", 
-                "imdbid": "0081573", 
-                "budget": 54000000, 
-                "year": 1980, 
-                "id": 4282
-            }, 
-            {
-                "rating": 3, 
-                "title": "Flash Gordon", 
-                "imdbid": "0080745", 
-                "budget": 35000000, 
-                "year": 1980, 
-                "id": 3858
-            }, 
-            {
-                "rating": 3, 
-                "title": "Xanadu", 
-                "imdbid": "0081777", 
-                "budget": 20000000, 
-                "year": 1980, 
-                "id": 3254
-            }, 
-            {
-                "rating": 3, 
-                "title": "Coal Miner&#39;s Daughter", 
-                "imdbid": "0080549", 
-                "budget": 15000000, 
-                "year": 1980, 
-                "id": 5681
-            }, 
-            {
-                "rating": 3, 
-                "title": "Atlantic City", 
-                "imdbid": "0080388", 
-                "budget": 7200000, 
-                "year": 1980, 
-                "id": 1223
-            }, 
-            {
-                "rating": 3, 
-                "title": "Airplane!", 
-                "imdbid": "0080339", 
-                "budget": 3500000, 
-                "year": 1980, 
-                "id": 873
-            }, 
-            {
-                "rating": 3, 
-                "title": "Fog, The", 
-                "imdbid": "0080749", 
-                "budget": 1000000, 
-                "year": 1980, 
-                "id": 2484
-            }, 
-            {
-                "rating": 3, 
-                "title": "Friday the 13th", 
-                "imdbid": "0080761", 
-                "budget": 550000, 
-                "year": 1980, 
-                "id": 4569
-            }, 
-            {
-                "rating": 3, 
-                "title": "Maniac", 
-                "imdbid": "0081114", 
-                "budget": 350000, 
-                "year": 1980, 
-                "id": 8402
-            }, 
-            {
-                "rating": 3, 
-                "title": "Private Benjamin", 
-                "imdbid": "0081375", 
-                "budget": 15000000, 
-                "year": 1980, 
-                "id": 2883
-            }
-        ], 
-        "year": "1980"
-    }, 
-    {
-        "movies": [
-            {
-                "rating": 0, 
-                "title": "Das Boot", 
-                "imdbid": "0082096", 
-                "budget": 14000000, 
-                "year": 1981, 
-                "id": 2143
-            }, 
-            {
-                "rating": 0, 
-                "title": "Escape from New York", 
-                "imdbid": "0082340", 
-                "budget": 6000000, 
-                "year": 1981, 
-                "id": 1427
-            }, 
-            {
-                "rating": 1, 
-                "title": "Pennies from Heaven", 
-                "imdbid": "0082894", 
-                "budget": 22000000, 
-                "year": 1981, 
-                "id": 4009
-            }, 
-            {
-                "rating": 1, 
-                "title": "Dragonslayer", 
-                "imdbid": "0082288", 
-                "budget": 18000000, 
-                "year": 1981, 
-                "id": 6944
-            }, 
-            {
-                "rating": 1, 
-                "title": "Outland", 
-                "imdbid": "0082869", 
-                "budget": 16000000, 
-                "year": 1981, 
-                "id": 2753
-            }, 
-            {
-                "rating": 1, 
-                "title": "Quest for Fire", 
-                "imdbid": "0082484", 
-                "budget": 12000000, 
-                "year": 1981, 
-                "id": 2053
-            }, 
-            {
-                "rating": 1, 
-                "title": "History of the World: Part I", 
-                "imdbid": "0082517", 
-                "budget": 11000000, 
-                "year": 1981, 
-                "id": 1081
-            }, 
-            {
-                "rating": 1, 
-                "title": "Excalibur", 
-                "imdbid": "0082348", 
-                "budget": 11000000, 
-                "year": 1981, 
-                "id": 8502
-            }, 
-            {
-                "rating": 1, 
-                "title": "Heavy Metal", 
-                "imdbid": "0082509", 
-                "budget": 9300000, 
-                "year": 1981, 
-                "id": 3231
-            }, 
-            {
-                "rating": 1, 
-                "title": "Chariots of Fire", 
-                "imdbid": "0082158", 
-                "budget": 5500000, 
-                "year": 1981, 
-                "id": 6507
-            }, 
-            {
-                "rating": 1, 
-                "title": "Time Bandits", 
-                "imdbid": "0081633", 
-                "budget": 5000000, 
-                "year": 1981, 
-                "id": 2697
-            }, 
-            {
-                "rating": 2, 
-                "title": "Fox and the Hound, The", 
-                "imdbid": "0082406", 
-                "budget": 12000000, 
-                "year": 1981, 
-                "id": 1124
-            }, 
-            {
-                "rating": 2, 
-                "title": "An American Werewolf in London", 
-                "imdbid": "0082010", 
-                "budget": 10000000, 
-                "year": 1981, 
-                "id": 2873
-            }, 
-            {
-                "rating": 2, 
-                "title": "Stripes", 
-                "imdbid": "0083131", 
-                "budget": 10000000, 
-                "year": 1981, 
-                "id": 5325
-            }, 
-            {
-                "rating": 3, 
-                "title": "Reds", 
-                "imdbid": "0082979", 
-                "budget": 32000000, 
-                "year": 1981, 
-                "id": 2667
-            }, 
-            {
-                "rating": 3, 
-                "title": "For Your Eyes Only", 
-                "imdbid": "0082398", 
-                "budget": 28000000, 
-                "year": 1981, 
-                "id": 5955
-            }, 
-            {
-                "rating": 3, 
-                "title": "Raiders of the Lost Ark", 
-                "imdbid": "0082971", 
-                "budget": 18000000, 
-                "year": 1981, 
-                "id": 340
-            }, 
-            {
-                "rating": 3, 
-                "title": "Blow Out", 
-                "imdbid": "0082085", 
-                "budget": 18000000, 
-                "year": 1981, 
-                "id": 6865
-            }, 
-            {
-                "rating": 3, 
-                "title": "Clash of the Titans", 
-                "imdbid": "0082186", 
-                "budget": 15000000, 
-                "year": 1981, 
-                "id": 744
-            }, 
-            {
-                "rating": 3, 
-                "title": "Halloween II", 
-                "imdbid": "0082495", 
-                "budget": 2500000, 
-                "year": 1981, 
-                "id": 4708
-            }
-        ], 
-        "year": "1981"
-    }, 
-    {
-        "movies": [
-            {
-                "rating": 0, 
-                "title": "TRON", 
-                "imdbid": "0084827", 
-                "budget": 17000000, 
-                "year": 1982, 
-                "id": 1002
-            }, 
-            {
-                "rating": 0, 
-                "title": "Rocky III", 
-                "imdbid": "0084602", 
-                "budget": 17000000, 
-                "year": 1982, 
-                "id": 6871
-            }, 
-            {
-                "rating": 0, 
-                "title": "Thing, The", 
-                "imdbid": "0084787", 
-                "budget": 15000000, 
-                "year": 1982, 
-                "id": 1861
-            }, 
-            {
-                "rating": 0, 
-                "title": "First Blood", 
-                "imdbid": "0083944", 
-                "budget": 15000000, 
-                "year": 1982, 
-                "id": 3342
-            }, 
-            {
-                "rating": 0, 
-                "title": "Pink Floyd The Wall", 
-                "imdbid": "0084503", 
-                "budget": 12000000, 
-                "year": 1982, 
-                "id": 6068
-            }, 
-            {
-                "rating": 1, 
-                "title": "Blade Runner", 
-                "imdbid": "0083658", 
-                "budget": 28000000, 
-                "year": 1982, 
-                "id": 234
-            }, 
-            {
-                "rating": 1, 
-                "title": "Tootsie", 
-                "imdbid": "0084805", 
-                "budget": 21000000, 
-                "year": 1982, 
-                "id": 2874
-            }, 
-            {
-                "rating": 1, 
-                "title": "Conan the Barbarian", 
-                "imdbid": "0082198", 
-                "budget": 20000000, 
-                "year": 1982, 
-                "id": 407
-            }, 
-            {
-                "rating": 1, 
-                "title": "King of Comedy, The", 
-                "imdbid": "0085794", 
-                "budget": 20000000, 
-                "year": 1982, 
-                "id": 1896
-            }, 
-            {
-                "rating": 1, 
-                "title": "Verdict, The", 
-                "imdbid": "0084855", 
-                "budget": 16000000, 
-                "year": 1982, 
-                "id": 6704
-            }, 
-            {
-                "rating": 1, 
-                "title": "Dark Crystal, The", 
-                "imdbid": "0083791", 
-                "budget": 15000000, 
-                "year": 1982, 
-                "id": 1035
-            }, 
-            {
-                "rating": 2, 
-                "title": "48 Hrs.", 
-                "imdbid": "0083511", 
-                "budget": 12000000, 
-                "year": 1982, 
-                "id": 5355
-            }, 
-            {
-                "rating": 3, 
-                "title": "Annie", 
-                "imdbid": "0083564", 
-                "budget": 50000000, 
-                "year": 1982, 
-                "id": 851
-            }, 
-            {
-                "rating": 3, 
-                "title": "Best Little Whorehouse in Texas, The", 
-                "imdbid": "0083642", 
-                "budget": 35000000, 
-                "year": 1982, 
-                "id": 4124
-            }, 
-            {
-                "rating": 3, 
-                "title": "Grease 2", 
-                "imdbid": "0084021", 
-                "budget": 13200000, 
-                "year": 1982, 
-                "id": 3034
-            }, 
-            {
-                "rating": 3, 
-                "title": "Sophie&#39;s Choice", 
-                "imdbid": "0084707", 
-                "budget": 12000000, 
-                "year": 1982, 
-                "id": 1003
-            }, 
-            {
-                "rating": 3, 
-                "title": "Star Trek: The Wrath of Khan", 
-                "imdbid": "0084726", 
-                "budget": 12000000, 
-                "year": 1982, 
-                "id": 896
-            }, 
-            {
-                "rating": 3, 
-                "title": "Poltergeist", 
-                "imdbid": "0084516", 
-                "budget": 10700000, 
-                "year": 1982, 
-                "id": 4544
-            }, 
-            {
-                "rating": 3, 
-                "title": "E.T.: The Extra-Terrestrial", 
-                "imdbid": "0083866", 
-                "budget": 10500000, 
-                "year": 1982, 
-                "id": 1645
-            }, 
-            {
-                "rating": 3, 
-                "title": "Secret of NIMH, The", 
-                "imdbid": "0084649", 
-                "budget": 7000000, 
-                "year": 1982, 
-                "id": 1510
-            }
-        ], 
-        "year": "1982"
-    }, 
-    {
-        "movies": [
-            {
-                "rating": 1, 
-                "title": "Trading Places", 
-                "imdbid": "0086465", 
-                "budget": 40600000, 
-                "year": 1983, 
-                "id": 1667
-            }, 
-            {
-                "rating": 1, 
-                "title": "Star Wars: Episode VI - Return of the Jedi", 
-                "imdbid": "0086190", 
-                "budget": 32350000, 
-                "year": 1983, 
-                "id": 671
-            }, 
-            {
-                "rating": 1, 
-                "title": "Krull", 
-                "imdbid": "0085811", 
-                "budget": 27000000, 
-                "year": 1983, 
-                "id": 6126
-            }, 
-            {
-                "rating": 1, 
-                "title": "Scarface", 
-                "imdbid": "0086250", 
-                "budget": 25000000, 
-                "year": 1983, 
-                "id": 5321
-            }, 
-            {
-                "rating": 1, 
-                "title": "WarGames", 
-                "imdbid": "0086567", 
-                "budget": 12000000, 
-                "year": 1983, 
-                "id": 3685
-            }, 
-            {
-                "rating": 1, 
-                "title": "Man With Two Brains, The", 
-                "imdbid": "0085894", 
-                "budget": 10100000, 
-                "year": 1983, 
-                "id": 4622
-            }, 
-            {
-                "rating": 1, 
-                "title": "Dead Zone, The", 
-                "imdbid": "0085407", 
-                "budget": 10000000, 
-                "year": 1983, 
-                "id": 5427
-            }, 
-            {
-                "rating": 1, 
-                "title": "Terms of Endearment", 
-                "imdbid": "0086425", 
-                "budget": 8000000, 
-                "year": 1983, 
-                "id": 4448
-            }, 
-            {
-                "rating": 1, 
-                "title": "Mickey&#39;s Christmas Carol", 
-                "imdbid": "0085936", 
-                "budget": 3000000, 
-                "year": 1983, 
-                "id": 6127
-            }, 
-            {
-                "rating": 2, 
-                "title": "Octopussy", 
-                "imdbid": "0086034", 
-                "budget": 27500000, 
-                "year": 1983, 
-                "id": 6313
-            }, 
-            {
-                "rating": 2, 
-                "title": "Outsiders, The", 
-                "imdbid": "0086066", 
-                "budget": 10000000, 
-                "year": 1983, 
-                "id": 7563
-            }, 
-            {
-                "rating": 2, 
-                "title": "Rumble Fish", 
-                "imdbid": "0086216", 
-                "budget": 10000000, 
-                "year": 1983, 
-                "id": 2387
-            }, 
-            {
-                "rating": 2, 
-                "title": "Videodrome", 
-                "imdbid": "0086541", 
-                "budget": 5952000, 
-                "year": 1983, 
-                "id": 3892
-            }, 
-            {
-                "rating": 3, 
-                "title": "Superman III", 
-                "imdbid": "0086393", 
-                "budget": 39000000, 
-                "year": 1983, 
-                "id": 4283
-            }, 
-            {
-                "rating": 3, 
-                "title": "Jaws 3-D", 
-                "imdbid": "0085750", 
-                "budget": 20500000, 
-                "year": 1983, 
-                "id": 7243
-            }, 
-            {
-                "rating": 3, 
-                "title": "Yentl", 
-                "imdbid": "0086619", 
-                "budget": 12000000, 
-                "year": 1983, 
-                "id": 7587
-            }, 
-            {
-                "rating": 3, 
-                "title": "Terms of Endearment", 
-                "imdbid": "0086425", 
-                "budget": 8000000, 
-                "year": 1983, 
-                "id": 4449
-            }, 
-            {
-                "rating": 3, 
-                "title": "Cujo", 
-                "imdbid": "0085382", 
-                "budget": 5000000, 
-                "year": 1983, 
-                "id": 7750
-            }, 
-            {
-                "rating": 3, 
-                "title": "Flashdance", 
-                "imdbid": "0085549", 
-                "budget": 4000000, 
-                "year": 1983, 
-                "id": 3972
-            }, 
-            {
-                "rating": 3, 
-                "title": "Lianna", 
-                "imdbid": "0085838", 
-                "budget": 300, 
-                "year": 1983, 
-                "id": 3672
-            }
-        ], 
-        "year": "1983"
-    }, 
-    {
-        "movies": [
-            {
-                "rating": 0, 
-                "title": "Indiana Jones and the Temple of Doom", 
-                "imdbid": "0087469", 
-                "budget": 28000000, 
-                "year": 1984, 
-                "id": 1048
-            }, 
-            {
-                "rating": 0, 
-                "title": "Starman", 
-                "imdbid": "0088172", 
-                "budget": 22000000, 
-                "year": 1984, 
-                "id": 5796
-            }, 
-            {
-                "rating": 0, 
-                "title": "Beverly Hills Cop", 
-                "imdbid": "0086960", 
-                "budget": 15000000, 
-                "year": 1984, 
-                "id": 1848
-            }, 
-            {
-                "rating": 0, 
-                "title": "Top Secret!", 
-                "imdbid": "0088286", 
-                "budget": 9000000, 
-                "year": 1984, 
-                "id": 4668
-            }, 
-            {
-                "rating": 1, 
-                "title": "Once Upon A Time In America", 
-                "imdbid": "0087843", 
-                "budget": 30000000, 
-                "year": 1984, 
-                "id": 6293
-            }, 
-            {
-                "rating": 1, 
-                "title": "2010", 
-                "imdbid": "0086837", 
-                "budget": 28000000, 
-                "year": 1984, 
-                "id": 4623
-            }, 
-            {
-                "rating": 1, 
-                "title": "Natural, The", 
-                "imdbid": "0087781", 
-                "budget": 28000000, 
-                "year": 1984, 
-                "id": 4053
-            }, 
-            {
-                "rating": 1, 
-                "title": "Neverending Story, The", 
-                "imdbid": "0088323", 
-                "budget": 27000000, 
-                "year": 1984, 
-                "id": 4157
-            }, 
-            {
-                "rating": 1, 
-                "title": "Philadelphia Experiment, The", 
-                "imdbid": "0087910", 
-                "budget": 21000000, 
-                "year": 1984, 
-                "id": 7402
-            }, 
-            {
-                "rating": 1, 
-                "title": "Star Trek III: The Search for Spock", 
-                "imdbid": "0088170", 
-                "budget": 18000000, 
-                "year": 1984, 
-                "id": 1304
-            }, 
-            {
-                "rating": 1, 
-                "title": "Gremlins", 
-                "imdbid": "0087363", 
-                "budget": 11000000, 
-                "year": 1984, 
-                "id": 406
-            }, 
-            {
-                "rating": 2, 
-                "title": "Ghostbusters", 
-                "imdbid": "0087332", 
-                "budget": 30000000, 
-                "year": 1984, 
-                "id": 376
-            }, 
-            {
-                "rating": 2, 
-                "title": "Best Defense", 
-                "imdbid": "0086955", 
-                "budget": 18000000, 
-                "year": 1984, 
-                "id": 7404
-            }, 
-            {
-                "rating": 2, 
-                "title": "Body Double", 
-                "imdbid": "0086984", 
-                "budget": 10000000, 
-                "year": 1984, 
-                "id": 5040
-            }, 
-            {
-                "rating": 3, 
-                "title": "Dune", 
-                "imdbid": "0087182", 
-                "budget": 40000000, 
-                "year": 1984, 
-                "id": 1534
-            }, 
-            {
-                "rating": 3, 
-                "title": "Supergirl", 
-                "imdbid": "0088206", 
-                "budget": 35000000, 
-                "year": 1984, 
-                "id": 2000
-            }, 
-            {
-                "rating": 3, 
-                "title": "Amadeus", 
-                "imdbid": "0086879", 
-                "budget": 18000000, 
-                "year": 1984, 
-                "id": 613
-            }, 
-            {
-                "rating": 3, 
-                "title": "Conan the Destroyer", 
-                "imdbid": "0087078", 
-                "budget": 18000000, 
-                "year": 1984, 
-                "id": 413
-            }, 
-            {
-                "rating": 3, 
-                "title": "Last Starfighter, The", 
-                "imdbid": "0087597", 
-                "budget": 15000000, 
-                "year": 1984, 
-                "id": 4633
-            }, 
-            {
-                "rating": 3, 
-                "title": "Romancing the Stone", 
-                "imdbid": "0088011", 
-                "budget": 10000000, 
-                "year": 1984, 
-                "id": 8748
-            }
-        ], 
-        "year": "1984"
-    }, 
-    {
-        "movies": [
-            {
-                "rating": 0, 
-                "title": "Rambo: First Blood Part II", 
-                "imdbid": "0089880", 
-                "budget": 44000000, 
-                "year": 1985, 
-                "id": 6840
-            }, 
-            {
-                "rating": 0, 
-                "title": "Enemy Mine", 
-                "imdbid": "0089092", 
-                "budget": 40000000, 
-                "year": 1985, 
-                "id": 2152
-            }, 
-            {
-                "rating": 0, 
-                "title": "Ladyhawke", 
-                "imdbid": "0089457", 
-                "budget": 20000000, 
-                "year": 1985, 
-                "id": 1269
-            }, 
-            {
-                "rating": 1, 
-                "title": "A View to a Kill", 
-                "imdbid": "0090264", 
-                "budget": 30000000, 
-                "year": 1985, 
-                "id": 6314
-            }, 
-            {
-                "rating": 1, 
-                "title": "Starchaser: The Legend of Orin", 
-                "imdbid": "0090065", 
-                "budget": 15000000, 
-                "year": 1985, 
-                "id": 3416
-            }, 
-            {
-                "rating": 1, 
-                "title": "Ran", 
-                "imdbid": "0089881", 
-                "budget": 11500000, 
-                "year": 1985, 
-                "id": 2352
-            }, 
-            {
-                "rating": 2, 
-                "title": "Rocky IV", 
-                "imdbid": "0089927", 
-                "budget": 31000000, 
-                "year": 1985, 
-                "id": 6873
-            }, 
-            {
-                "rating": 2, 
-                "title": "Back to the Future", 
-                "imdbid": "0088763", 
-                "budget": 19000000, 
-                "year": 1985, 
-                "id": 149
-            }, 
-            {
-                "rating": 3, 
-                "title": "Out of Africa", 
-                "imdbid": "0089755", 
-                "budget": 31000000, 
-                "year": 1985, 
-                "id": 6155
-            }, 
-            {
-                "rating": 3, 
-                "title": "Black Cauldron, The", 
-                "imdbid": "0088814", 
-                "budget": 25000000, 
-                "year": 1985, 
-                "id": 1949
-            }, 
-            {
-                "rating": 3, 
-                "title": "Return to Oz", 
-                "imdbid": "0089908", 
-                "budget": 25000000, 
-                "year": 1985, 
-                "id": 2894
-            }, 
-            {
-                "rating": 3, 
-                "title": "Legend", 
-                "imdbid": "0089469", 
-                "budget": 25000000, 
-                "year": 1985, 
-                "id": 3986
-            }, 
-            {
-                "rating": 3, 
-                "title": "Goonies, The", 
-                "imdbid": "0089218", 
-                "budget": 19000000, 
-                "year": 1985, 
-                "id": 3001
-            }, 
-            {
-                "rating": 3, 
-                "title": "Red Sonja", 
-                "imdbid": "0089893", 
-                "budget": 17900000, 
-                "year": 1985, 
-                "id": 418
-            }, 
-            {
-                "rating": 3, 
-                "title": "Brazil", 
-                "imdbid": "0088846", 
-                "budget": 15000000, 
-                "year": 1985, 
-                "id": 880
-            }, 
-            {
-                "rating": 3, 
-                "title": "Purple Rose of Cairo", 
-                "imdbid": "0089853", 
-                "budget": 15000000, 
-                "year": 1985, 
-                "id": 5297
-            }, 
-            {
-                "rating": 3, 
-                "title": "Clue", 
-                "imdbid": "0088930", 
-                "budget": 15000000, 
-                "year": 1985, 
-                "id": 1408
-            }, 
-            {
-                "rating": 3, 
-                "title": "Color Purple, The", 
-                "imdbid": "0088939", 
-                "budget": 15000000, 
-                "year": 1985, 
-                "id": 991
-            }, 
-            {
-                "rating": 3, 
-                "title": "Witness", 
-                "imdbid": "0090329", 
-                "budget": 12000000, 
-                "year": 1985, 
-                "id": 5632
-            }, 
-            {
-                "rating": 3, 
-                "title": "Just One of the Guys", 
-                "imdbid": "0089393", 
-                "budget": 11500000, 
-                "year": 1985, 
-                "id": 402
-            }
-        ], 
-        "year": "1985"
-    }, 
-    {
-        "movies": [
-            {
-                "rating": 0, 
-                "title": "Pirates", 
-                "imdbid": "0091757", 
-                "budget": 40000000, 
-                "year": 1986, 
-                "id": 8286
-            }, 
-            {
-                "rating": 0, 
-                "title": "Mission, The", 
-                "imdbid": "0091530", 
-                "budget": 24500000, 
-                "year": 1986, 
-                "id": 6979
-            }, 
-            {
-                "rating": 0, 
-                "title": "Name Of The Rose, The", 
-                "imdbid": "0091605", 
-                "budget": 20000000, 
-                "year": 1986, 
-                "id": 7333
-            }, 
-            {
-                "rating": 1, 
-                "title": "Little Shop of Horrors", 
-                "imdbid": "0091419", 
-                "budget": 25000000, 
-                "year": 1986, 
-                "id": 2061
-            }, 
-            {
-                "rating": 1, 
-                "title": "Manhunter", 
-                "imdbid": "0091474", 
-                "budget": 15000000, 
-                "year": 1986, 
-                "id": 6298
-            }, 
-            {
-                "rating": 1, 
-                "title": "Great Mouse Detective, The", 
-                "imdbid": "0091149", 
-                "budget": 14000000, 
-                "year": 1986, 
-                "id": 3701
-            }, 
-            {
-                "rating": 1, 
-                "title": "Armed and Dangerous", 
-                "imdbid": "0090660", 
-                "budget": 12000000, 
-                "year": 1986, 
-                "id": 2421
-            }, 
-            {
-                "rating": 2, 
-                "title": "!Three Amigos!", 
-                "imdbid": "0092086", 
-                "budget": 25000000, 
-                "year": 1986, 
-                "id": 6202
-            }, 
-            {
-                "rating": 2, 
-                "title": "Manhattan Project, The", 
-                "imdbid": "0091472", 
-                "budget": 18000000, 
-                "year": 1986, 
-                "id": 7472
-            }, 
-            {
-                "rating": 2, 
-                "title": "Top Gun", 
-                "imdbid": "0092099", 
-                "budget": 15000000, 
-                "year": 1986, 
-                "id": 1703
-            }, 
-            {
-                "rating": 2, 
-                "title": "Fly, The", 
-                "imdbid": "0091064", 
-                "budget": 15000000, 
-                "year": 1986, 
-                "id": 3002
-            }, 
-            {
-                "rating": 3, 
-                "title": "Howard The Duck", 
-                "imdbid": "0091225", 
-                "budget": 37000000, 
-                "year": 1986, 
-                "id": 4632
-            }, 
-            {
-                "rating": 3, 
-                "title": "Labyrinth", 
-                "imdbid": "0091369", 
-                "budget": 25000000, 
-                "year": 1986, 
-                "id": 253
-            }, 
-            {
-                "rating": 3, 
-                "title": "Big Trouble in Little China", 
-                "imdbid": "0090728", 
-                "budget": 25000000, 
-                "year": 1986, 
-                "id": 2150
-            }, 
-            {
-                "rating": 3, 
-                "title": "Star Trek IV:  The Voyage Home", 
-                "imdbid": "0092007", 
-                "budget": 24000000, 
-                "year": 1986, 
-                "id": 2648
-            }, 
-            {
-                "rating": 3, 
-                "title": "Aliens", 
-                "imdbid": "0090605", 
-                "budget": 18500000, 
-                "year": 1986, 
-                "id": 283
-            }, 
-            {
-                "rating": 3, 
-                "title": "Peggy Sue Got Married", 
-                "imdbid": "0091738", 
-                "budget": 18000000, 
-                "year": 1986, 
-                "id": 2070
-            }, 
-            {
-                "rating": 3, 
-                "title": "SpaceCamp", 
-                "imdbid": "0091993", 
-                "budget": 18000000, 
-                "year": 1986, 
-                "id": 2658
-            }, 
-            {
-                "rating": 3, 
-                "title": "Highlander", 
-                "imdbid": "0091203", 
-                "budget": 16000000, 
-                "year": 1986, 
-                "id": 1604
-            }, 
-            {
-                "rating": 3, 
-                "title": "Clan of the Cave Bear, The", 
-                "imdbid": "0090848", 
-                "budget": 15000000, 
-                "year": 1986, 
-                "id": 1614
-            }
-        ], 
-        "year": "1986"
-    }, 
-    {
-        "movies": [
-            {
-                "rating": 0, 
-                "title": "Predator", 
-                "imdbid": "0093773", 
-                "budget": 18000000, 
-                "year": 1987, 
-                "id": 1928
-            }, 
-            {
-                "rating": 0, 
-                "title": "Full Metal Jacket", 
-                "imdbid": "0093058", 
-                "budget": 17000000, 
-                "year": 1987, 
-                "id": 720
-            }, 
-            {
-                "rating": 1, 
-                "title": "Empire of the Sun", 
-                "imdbid": "0092965", 
-                "budget": 35000000, 
-                "year": 1987, 
-                "id": 5373
-            }, 
-            {
-                "rating": 1, 
-                "title": "Beverly Hills Cop II", 
-                "imdbid": "0092644", 
-                "budget": 20000000, 
-                "year": 1987, 
-                "id": 1849
-            }, 
-            {
-                "rating": 1, 
-                "title": "Angel Heart", 
-                "imdbid": "0092563", 
-                "budget": 17000000, 
-                "year": 1987, 
-                "id": 2471
-            }, 
-            {
-                "rating": 1, 
-                "title": "Radio Days", 
-                "imdbid": "0093818", 
-                "budget": 16000000, 
-                "year": 1987, 
-                "id": 2437
-            }, 
-            {
-                "rating": 1, 
-                "title": "Lethal Weapon", 
-                "imdbid": "0093409", 
-                "budget": 15000000, 
-                "year": 1987, 
-                "id": 1113
-            }, 
-            {
-                "rating": 1, 
-                "title": "RoboCop", 
-                "imdbid": "0093870", 
-                "budget": 13000000, 
-                "year": 1987, 
-                "id": 547
-            }, 
-            {
-                "rating": 1, 
-                "title": "Good Morning, Vietnam", 
-                "imdbid": "0093105", 
-                "budget": 13000000, 
-                "year": 1987, 
-                "id": 134
-            }, 
-            {
-                "rating": 1, 
-                "title": "Secret of My Succe$s, The", 
-                "imdbid": "0093936", 
-                "budget": 12000000, 
-                "year": 1987, 
-                "id": 8672
-            }, 
-            {
-                "rating": 1, 
-                "title": "Lost Boys, The", 
-                "imdbid": "0093437", 
-                "budget": 8500000, 
-                "year": 1987, 
-                "id": 3003
-            }, 
-            {
-                "rating": 2, 
-                "title": "Princess Bride, The", 
-                "imdbid": "0093779", 
-                "budget": 16000000, 
-                "year": 1987, 
-                "id": 322
-            }, 
-            {
-                "rating": 3, 
-                "title": "Running Man, The", 
-                "imdbid": "0093894", 
-                "budget": 27000000, 
-                "year": 1987, 
-                "id": 8692
-            }, 
-            {
-                "rating": 3, 
-                "title": "Last Emperor, The", 
-                "imdbid": "0093389", 
-                "budget": 23000000, 
-                "year": 1987, 
-                "id": 3249
-            }, 
-            {
-                "rating": 3, 
-                "title": "Jaws: The Revenge", 
-                "imdbid": "0093300", 
-                "budget": 23000000, 
-                "year": 1987, 
-                "id": 6920
-            }, 
-            {
-                "rating": 3, 
-                "title": "Spaceballs", 
-                "imdbid": "0094012", 
-                "budget": 22700000, 
-                "year": 1987, 
-                "id": 1078
-            }, 
-            {
-                "rating": 3, 
-                "title": "Broadcast News", 
-                "imdbid": "0092699", 
-                "budget": 20000000, 
-                "year": 1987, 
-                "id": 5310
-            }, 
-            {
-                "rating": 3, 
-                "title": "Dragnet", 
-                "imdbid": "0092925", 
-                "budget": 20000000, 
-                "year": 1987, 
-                "id": 4620
-            }, 
-            {
-                "rating": 3, 
-                "title": "Superman IV: The Quest for Peace", 
-                "imdbid": "0094074", 
-                "budget": 17000000, 
-                "year": 1987, 
-                "id": 4297
-            }, 
-            {
-                "rating": 3, 
-                "title": "Fatal Attraction", 
-                "imdbid": "0093010", 
-                "budget": 14000000, 
-                "year": 1987, 
-                "id": 4737
-            }
-        ], 
-        "year": "1987"
-    }, 
-    {
-        "movies": [
-            {
-                "rating": 1, 
-                "title": "Who Framed Roger Rabbit", 
-                "imdbid": "0096438", 
-                "budget": 70000000, 
-                "year": 1988, 
-                "id": 136
-            }, 
-            {
-                "rating": 1, 
-                "title": "Adventures of Baron Munchausen, The", 
-                "imdbid": "0096764", 
-                "budget": 46630000, 
-                "year": 1988, 
-                "id": 5595
-            }, 
-            {
-                "rating": 1, 
-                "title": "Rain Man", 
-                "imdbid": "0095953", 
-                "budget": 25000000, 
-                "year": 1988, 
-                "id": 3482
-            }, 
-            {
-                "rating": 1, 
-                "title": "Big", 
-                "imdbid": "0094737", 
-                "budget": 18000000, 
-                "year": 1988, 
-                "id": 5324
-            }, 
-            {
-                "rating": 1, 
-                "title": "Alien Nation", 
-                "imdbid": "0094631", 
-                "budget": 16000000, 
-                "year": 1988, 
-                "id": 2784
-            }, 
-            {
-                "rating": 1, 
-                "title": "Young Guns", 
-                "imdbid": "0096487", 
-                "budget": 13000000, 
-                "year": 1988, 
-                "id": 4578
-            }, 
-            {
-                "rating": 1, 
-                "title": "Naked Gun: From the Files of Police Squad!, The", 
-                "imdbid": "0095705", 
-                "budget": 12000000, 
-                "year": 1988, 
-                "id": 1824
-            }, 
-            {
-                "rating": 2, 
-                "title": "Oliver &amp; Company", 
-                "imdbid": "0095776", 
-                "budget": 31000000, 
-                "year": 1988, 
-                "id": 1210
-            }, 
-            {
-                "rating": 2, 
-                "title": "Midnight Run", 
-                "imdbid": "0095631", 
-                "budget": 30000000, 
-                "year": 1988, 
-                "id": 2903
-            }, 
-            {
-                "rating": 2, 
-                "title": "Dead Ringers", 
-                "imdbid": "0094964", 
-                "budget": 13000000, 
-                "year": 1988, 
-                "id": 4672
-            }, 
-            {
-                "rating": 3, 
-                "title": "Coming to America", 
-                "imdbid": "0094898", 
-                "budget": 39000000, 
-                "year": 1988, 
-                "id": 256
-            }, 
-            {
-                "rating": 3, 
-                "title": "Willow", 
-                "imdbid": "0096446", 
-                "budget": 35000000, 
-                "year": 1988, 
-                "id": 739
-            }, 
-            {
-                "rating": 3, 
-                "title": "Die Hard", 
-                "imdbid": "0095016", 
-                "budget": 28000000, 
-                "year": 1988, 
-                "id": 619
-            }, 
-            {
-                "rating": 3, 
-                "title": "Working Girl", 
-                "imdbid": "0096463", 
-                "budget": 28000000, 
-                "year": 1988, 
-                "id": 1070
-            }, 
-            {
-                "rating": 3, 
-                "title": "Gorillas in the Mist", 
-                "imdbid": "0095243", 
-                "budget": 22000000, 
-                "year": 1988, 
-                "id": 8771
-            }, 
-            {
-                "rating": 3, 
-                "title": "My Stepmother Is an Alien", 
-                "imdbid": "0095687", 
-                "budget": 20000000, 
-                "year": 1988, 
-                "id": 4774
-            }, 
-            {
-                "rating": 3, 
-                "title": "Beetle Juice", 
-                "imdbid": "0094721", 
-                "budget": 15000000, 
-                "year": 1988, 
-                "id": 647
-            }, 
-            {
-                "rating": 3, 
-                "title": "Twins", 
-                "imdbid": "0096320", 
-                "budget": 15000000, 
-                "year": 1988, 
-                "id": 572
-            }, 
-            {
-                "rating": 3, 
-                "title": "Dangerous Liaisons", 
-                "imdbid": "0094947", 
-                "budget": 14000000, 
-                "year": 1988, 
-                "id": 1629
-            }, 
-            {
-                "rating": 3, 
-                "title": "Land Before Time, The", 
-                "imdbid": "0095489", 
-                "budget": 12300000, 
-                "year": 1988, 
-                "id": 2905
-            }
-        ], 
-        "year": "1988"
-    }, 
-    {
-        "movies": [
-            {
-                "rating": 0, 
-                "title": "Indiana Jones and the Last Crusade", 
-                "imdbid": "0097576", 
-                "budget": 48000000, 
-                "year": 1989, 
-                "id": 1049
-            }, 
-            {
-                "rating": 0, 
-                "title": "Glory", 
-                "imdbid": "0097441", 
-                "budget": 18000000, 
-                "year": 1989, 
-                "id": 6975
-            }, 
-            {
-                "rating": 1, 
-                "title": "Batman", 
-                "imdbid": "0096895", 
-                "budget": 35000000, 
-                "year": 1989, 
-                "id": 1023
-            }, 
-            {
-                "rating": 1, 
-                "title": "Star Trek V: The Final Frontier", 
-                "imdbid": "0098382", 
-                "budget": 30000000, 
-                "year": 1989, 
-                "id": 1201
-            }, 
-            {
-                "rating": 1, 
-                "title": "&#39;Burbs, The", 
-                "imdbid": "0096734", 
-                "budget": 18000000, 
-                "year": 1989, 
-                "id": 2074
-            }, 
-            {
-                "rating": 1, 
-                "title": "Dead Poets Society", 
-                "imdbid": "0097165", 
-                "budget": 16400000, 
-                "year": 1989, 
-                "id": 2361
-            }, 
-            {
-                "rating": 1, 
-                "title": "Road House", 
-                "imdbid": "0098206", 
-                "budget": 15000000, 
-                "year": 1989, 
-                "id": 511
-            }, 
-            {
-                "rating": 2, 
-                "title": "Ghostbusters II", 
-                "imdbid": "0097428", 
-                "budget": 37000000, 
-                "year": 1989, 
-                "id": 1540
-            }, 
-            {
-                "rating": 2, 
-                "title": "Licence to Kill", 
-                "imdbid": "0097742", 
-                "budget": 32000000, 
-                "year": 1989, 
-                "id": 4364
-            }, 
-            {
-                "rating": 3, 
-                "title": "Abyss, The", 
-                "imdbid": "0096754", 
-                "budget": 70000000, 
-                "year": 1989, 
-                "id": 1478
-            }, 
-            {
-                "rating": 3, 
-                "title": "Back to the Future Part II", 
-                "imdbid": "0096874", 
-                "budget": 40000000, 
-                "year": 1989, 
-                "id": 150
-            }, 
-            {
-                "rating": 3, 
-                "title": "Little Mermaid, The", 
-                "imdbid": "0097757", 
-                "budget": 40000000, 
-                "year": 1989, 
-                "id": 666
-            }, 
-            {
-                "rating": 3, 
-                "title": "Honey, I Shrunk the Kids", 
-                "imdbid": "0097523", 
-                "budget": 32000000, 
-                "year": 1989, 
-                "id": 1603
-            }, 
-            {
-                "rating": 3, 
-                "title": "National Lampoon&#39;s Christmas Vacation", 
-                "imdbid": "0097958", 
-                "budget": 27000000, 
-                "year": 1989, 
-                "id": 8323
-            }, 
-            {
-                "rating": 3, 
-                "title": "Lethal Weapon 2", 
-                "imdbid": "0097733", 
-                "budget": 25000000, 
-                "year": 1989, 
-                "id": 7222
-            }, 
-            {
-                "rating": 3, 
-                "title": "Leviathan", 
-                "imdbid": "0097737", 
-                "budget": 25000000, 
-                "year": 1989, 
-                "id": 3932
-            }, 
-            {
-                "rating": 3, 
-                "title": "Crimes and Misdemeanors", 
-                "imdbid": "0097123", 
-                "budget": 19000000, 
-                "year": 1989, 
-                "id": 2619
-            }, 
-            {
-                "rating": 3, 
-                "title": "When Harry Met Sally", 
-                "imdbid": "0098635", 
-                "budget": 16000000, 
-                "year": 1989, 
-                "id": 181
-            }, 
-            {
-                "rating": 3, 
-                "title": "Uncle Buck", 
-                "imdbid": "0098554", 
-                "budget": 15000000, 
-                "year": 1989, 
-                "id": 159
-            }, 
-            {
-                "rating": 3, 
-                "title": "Born on the Fourth of July", 
-                "imdbid": "0096969", 
-                "budget": 14000000, 
-                "year": 1989, 
-                "id": 5574
-            }
-        ], 
-        "year": "1989"
-    }, 
-    {
-        "movies": [
-            {
-                "rating": 0, 
                 "title": "Russia House, The", 
                 "imdbid": "0100530", 
                 "budget": 22997992, 
@@ -1812,6 +162,7 @@
                 "id": 2442
             }
         ], 
+        "averageBudget": 33596449, 
         "year": "1990"
     }, 
     {
@@ -1977,6 +328,7 @@
                 "id": 1405
             }
         ], 
+        "averageBudget": 39100000, 
         "year": "1991"
     }, 
     {
@@ -2142,6 +494,7 @@
                 "id": 7006
             }
         ], 
+        "averageBudget": 34775000, 
         "year": "1992"
     }, 
     {
@@ -2307,6 +660,7 @@
                 "id": 6173
             }
         ], 
+        "averageBudget": 40050000, 
         "year": "1993"
     }, 
     {
@@ -2472,6 +826,7 @@
                 "id": 537
             }
         ], 
+        "averageBudget": 44550000, 
         "year": "1994"
     }, 
     {
@@ -2637,6 +992,7 @@
                 "id": 675
             }
         ], 
+        "averageBudget": 66550000, 
         "year": "1995"
     }, 
     {
@@ -2802,6 +1158,7 @@
                 "id": 1818
             }
         ], 
+        "averageBudget": 66750000, 
         "year": "1996"
     }, 
     {
@@ -2967,6 +1324,7 @@
                 "id": 105
             }
         ], 
+        "averageBudget": 89800000, 
         "year": "1997"
     }, 
     {
@@ -3132,6 +1490,7 @@
                 "id": 2475
             }
         ], 
+        "averageBudget": 88450000, 
         "year": "1998"
     }, 
     {
@@ -3297,6 +1656,7 @@
                 "id": 1091
             }
         ], 
+        "averageBudget": 101250000, 
         "year": "1999"
     }, 
     {
@@ -3462,6 +1822,7 @@
                 "id": 1029
             }
         ], 
+        "averageBudget": 95875000, 
         "year": "2000"
     }, 
     {
@@ -3627,6 +1988,7 @@
                 "id": 5006
             }
         ], 
+        "averageBudget": 99100000, 
         "year": "2001"
     }, 
     {
@@ -3792,6 +2154,7 @@
                 "id": 4806
             }
         ], 
+        "averageBudget": 99700000, 
         "year": "2002"
     }, 
     {
@@ -3957,6 +2320,7 @@
                 "id": 1458
             }
         ], 
+        "averageBudget": 112850000, 
         "year": "2003"
     }, 
     {
@@ -4122,6 +2486,7 @@
                 "id": 746
             }
         ], 
+        "averageBudget": 126650000, 
         "year": "2004"
     }, 
     {
@@ -4287,6 +2652,7 @@
                 "id": 3237
             }
         ], 
+        "averageBudget": 122850000, 
         "year": "2005"
     }, 
     {
@@ -4452,6 +2818,7 @@
                 "id": 5358
             }
         ], 
+        "averageBudget": 129625000, 
         "year": "2006"
     }, 
     {
@@ -4617,6 +2984,7 @@
                 "id": 2574
             }
         ], 
+        "averageBudget": 135700000, 
         "year": "2007"
     }, 
     {
@@ -4782,6 +3150,7 @@
                 "id": 192
             }
         ], 
+        "averageBudget": 139100000, 
         "year": "2008"
     }, 
     {
@@ -4947,6 +3316,7 @@
                 "id": 562
             }
         ], 
+        "averageBudget": 148850000, 
         "year": "2009"
     }, 
     {
@@ -5112,6 +3482,7 @@
                 "id": 6345
             }
         ], 
+        "averageBudget": 166350000, 
         "year": "2010"
     }, 
     {
@@ -5277,6 +3648,7 @@
                 "id": 2639
             }
         ], 
+        "averageBudget": 159150000, 
         "year": "2011"
     }, 
     {
@@ -5442,6 +3814,7 @@
                 "id": 3755
             }
         ], 
+        "averageBudget": 178200000, 
         "year": "2012"
     }, 
     {
@@ -5607,6 +3980,7 @@
                 "id": 4019
             }
         ], 
+        "averageBudget": 178000000, 
         "year": "2013"
     }, 
     {
@@ -5772,6 +4146,7 @@
                 "id": 5687
             }
         ], 
+        "averageBudget": 166850000, 
         "year": "2014"
     }, 
     {
@@ -5937,6 +4312,7 @@
                 "id": 6281
             }
         ], 
+        "averageBudget": 166550000, 
         "year": "2015"
     }, 
     {
@@ -6102,6 +4478,7 @@
                 "id": 6977
             }
         ], 
+        "averageBudget": 175600000, 
         "year": "2016"
     }, 
     {
@@ -6267,6 +4644,7 @@
                 "id": 7439
             }
         ], 
+        "averageBudget": 152623583, 
         "year": "2017"
     }
 ]

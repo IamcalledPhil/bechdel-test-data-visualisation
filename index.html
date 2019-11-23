@@ -62,7 +62,7 @@
             let offset = 0;
             const dataPointHeight = height /(numberOfMovies);
             for (const movie of d.movies){
-               const dataPointWidth = xScale.bandwidth()*(1 - 1/scale(movie["budget"], 0, 999999999, 1, 14));
+               const dataPointWidth = xScale.bandwidth()*(1 - 1/scale(movie["budget"], 0, d.averageBudget*4, .2, 8));
                chart.append('rect')
                .attr('x', (s) => xScale(d.year)+xScale.bandwidth()/2-dataPointWidth/2)
                .attr('y', (s) => (height - dataPointHeight) - offset)
