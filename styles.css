@@ -7,16 +7,45 @@ body {
     height: 100%;
 }
 
+.header {
+  padding: 40px;
+  text-align: center;
+  background: #EAEAFA;
+  font-size: 30px;
+  color: #191970;
+}
+
+.datapoint:hover {
+    fill: black;
+}
+
+.axis line{
+  stroke: white;
+    stroke: white;
+  stroke-width: 2px;
+}
+
+.axis path{
+  stroke: white;
+  stroke-width: 2px;
+}
+
+.axis text{
+  fill: white;
+  font-family: tahoma, sans-serif;
+}  
+
+
 div#container {
     width: 1000px;
     height: 600px;
     margin: auto;
-    background-color: #FFE0F7;
+    background-color: #191970;
   }
 
 #tooltip {
 	opacity: 0;
-	position: fixed;			
+	position: absolute;			
 	text-align: left;				
 	padding: 5px;				
 	font: 14px sans-serif;
@@ -28,6 +57,4 @@ div#container {
 	z-index: 1099;
 }
 
-.datapoint:hover {
-    fill: black;
-}
+

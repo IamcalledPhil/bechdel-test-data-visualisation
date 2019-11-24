@@ -7,10 +7,12 @@
    </head>
 
    <body>
-      <h3>Bechdel Test Visualisation</h3>
+      <div class="header">
+               <h1>The Bechdel Test Through Time</h1>
+         </div>
+      </div>
       <div id='container'>
                    <div id="tooltip"></div>
-
             <svg></svg>
          </div>
         
@@ -21,10 +23,10 @@
    const height = 600 - 2 * margin;
    const widthToBudgetRatio = 90;
    const ratingColors = {
-      '0': '#912AE8',
-      '1': '#DC3AFF',
-      '2': '#E82AC9',
-      '3': '#FF2E74',
+      '0': '#EE7AE9',
+      '1': '#F39FEF',
+      '2': '#F7C4F5',
+      '3': '#FCE8FB',
    }
 
    const svg = d3.select('svg');
@@ -49,18 +51,19 @@
          .domain(data.map((s) => s.year))
          .padding(0.2)
 
-var myTool = d3.select("#tooltip")
+     let myTool = d3.select("#tooltip")
                   .attr("class", "mytooltip")
                   .style("opacity", "0")
                   .style("display", "none");
 
 
       chart.append('g')
-         .attr('transform', `translate(0, ${height})`)
-         .call(d3.axisBottom(xScale));
+         .attr('transform', `translate(0, ${height+5})`)
+         .attr("class", "axis")
+         .call(d3.axisBottom(xScale))
+         .selectAll("text") 
+    .attr("y", "13px");
 
-      chart.append('g')
-         .call(d3.axisLeft(yScale));
 
       chart.selectAll()
          .data(data)
@@ -75,10 +78,12 @@ var myTool = d3.select("#tooltip")
                chart.append('rect')
                .attr('x', xScale(d.year)+xScale.bandwidth()/2-dataPointWidth/2)
                .attr('y', (height - dataPointHeight) - offset)
-               .attr('height', dataPointHeight)
+               .attr('height', dataPointHeight - dataPointHeight*.2)
                .attr('width', dataPointWidth)
+               .attr('rx', 5)
                .attr('fill', ratingColors[movie.rating])
                .attr('title',movie.title)
+               .attr('budget',movie.budget.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,'))
                .classed('datapoint',true)
                .on("mouseover", function(){  
     
@@ -93,9 +98,13 @@ var myTool = d3.select("#tooltip")
                         .style("display", "block")  //The tooltip appears
                      myTool
                         .html(
-                        "<div id='thumbnail'><span>" + d3.select(this).attr("title") + "</div>")
-                        .style("left", (d3.event.pageX - 113) + "px")   
-                        .style("top", (d3.event.pageY - 10) + "px")
+                        "<div id='thumbnail'><h4>" 
+                           + d3.select(this).attr("title") 
+                           + "</h4><p>Budget: $"
+                           + d3.select(this).attr("budget") 
+                           + "</p></div>")
+                        .style("left", (d3.event.pageX ) + "px")   
+                        .style("top", (d3.event.pageY ) + "px")
                   })
                .on("mouseout", function(){  
                      d3.select(this)
@@ -117,7 +126,7 @@ var myTool = d3.select("#tooltip")
 
       const ticks = d3.selectAll(".tick text");
          ticks.each(function(_,i){
-         if(i%3 !== 0) d3.select(this).remove();
+         if(i%2 !== 0) d3.select(this).remove();
       });
 
       
