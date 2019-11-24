@@ -9,6 +9,7 @@
    <body>
       <div class="header">
                <h1>The Bechdel Test Through Time</h1>
+               <h3>Hover over the data points for more information</h3>
          </div>
       </div>
       <div class='chart-container'>
@@ -16,20 +17,27 @@
             <div class="tooltip"></div>
          </div>
          <svg></svg>
-         <div class = legend-wrapper>
+         <div class = info-wrapper>
             <div id="legend">
-               <h3>Legend:</h3>
-               <p>The width of the box corresponds to the buget of the movie.</p>
-               <p>Hover over the boxes for more information!</p>
+               <div id="header"><h3>Legend:</h3></div>
+               <div id="legend-info">
+                  <p>The wider the box, the higher the movie budget. </p> 
+               </div>
+               <p id="rating0">No two women in the movie</p>
+               <p id="rating1">No two women talk to each other</p>
+               <p id="rating2">Women only talk to each other about men</p>
+               <p id="rating3" >Passes the test</p>
+
             </div>
          </div>
+         <div id="footertext"><p>Data gathered from http://bechdeltest.com/api/v1/doc and https://www.kaggle.com/rounakbanik/the-movies-dataset</p></div>
       </div>
         
       <script>
    const windowWidth  = window.innerWidth || document.documentElement.clientWidth || 
    document.body.clientWidth;
 
-   const margin = 60;
+   const margin = 105;
    const width = 1000 - 2 * margin;
    const height = 600 - 2 * margin;
    const widthToBudgetRatio = 90;
@@ -43,9 +51,10 @@
 
    const legend = document.getElementById("legend");
    
-   for (const ratingColor of Object.values(ratingColors)){
+   for (const [rating,ratingColor] of Object.entries(ratingColors)){
       const colorBlock = document.createElement("div");
       colorBlock.classList.add('color-swatch');
+      colorBlock.id = "rating-swatch"+rating;
       console.log(ratingColor);
       colorBlock.style.backgroundColor = ratingColor;
       legend.appendChild(colorBlock); 
@@ -129,13 +138,7 @@
                            + "</h4><p>Budget: $"
                            + d3.select(this).attr("budget") 
                            + "</p></div>")
-                        .style("left", () => {
-                           if ((d3.event.pageX + (tooltipWidth*4) > windowWidth)){
-                              return d3.event.pageX - tooltipWidth - 10;
-                           } else {
-                              return (d3.event.pageX+10 ) + "px";
-                           }
-                        })
+                        .style("left", (d3.event.pageX+10 ) + "px")
                         .style("top", (d3.event.pageY-260) + "px")
                   })
                .on("mouseout", function(){  
