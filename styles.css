@@ -10,12 +10,11 @@ body {
   background: white;
   font-size: 20px;
   color: #191970;
-  font-family: sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 
-.header h3{
-    font-family: serif;
-}
+
+
 
 .datapoint:hover {
     fill: black;
